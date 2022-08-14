@@ -8,6 +8,12 @@ Install all dependencies with `npm install`.
 
 ## Usage
 
+Build the TypeScript
+
+```shell
+npm run build
+```
+
 Run `npm start` and pass in a rarible.com URL. Example:
 
 ```shell
