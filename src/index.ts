@@ -45,7 +45,7 @@ await page.setViewport({
 
 await page.waitForSelector(".ReactVirtualized__Grid");
 
-const collection = join("..", "collection");
+const collection = join("collection");
 if (!existsSync(collection)) {
   mkdirSync(collection);
 }
