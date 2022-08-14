@@ -126,6 +126,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# bot stuff
+# nft stuff
 collection
-mongodb
